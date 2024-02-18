@@ -30,7 +30,7 @@
 
 #### [Timing_automatic_forecast](https://github.com/zhengkai15/Timing_automatic_forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Timing_automatic_forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Timing_automatic_forecast?style=social)
 
-A Survey (Evaluation Metrics, Dataset, Project and Paper) on Text-to-Image Synthesis & Manipulation and other related works.
+An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
 
 <!--
 <a href="https://github.com/zhengkai15/Timing_automatic_forecast">
