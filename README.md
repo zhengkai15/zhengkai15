@@ -9,7 +9,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20Shrimponthekeyboard~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25)
 
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
-- 🤔 I’m currently learning on **Transformer** and **CV**.
+- 🤔 I’m currently learning on **Transformer** and **Diffusion**.
+- 🤔 I’m currently learning on **Large model of weather forecast** and **SR**.
 
 ### 📈 GitHub status
 
@@ -32,7 +33,6 @@
 
 An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
 
-<!--
-<a href="https://github.com/zhengkai15/Timing_automatic_forecast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yutong-Zhou-cv&repo=awesome-Text-to-Image&theme=rose_pine" />
--->
+#### [Awesome-Weather-Forecast](https://github.com/zhengkai15/Awesome-Weather-Forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Awesome-Weather-Forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Awesome-Weather-Forecast?style=social)
+
+An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
