@@ -10,7 +10,7 @@
 
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
 - 🤔 I’m currently learning on **Transformer** and **Diffusion**.
-- 🤔 I’m currently learning on **Large model of weather forecast** and **SR**.
+- 😀 I’m currently learning on **Large model of weather forecast** and **SR**.
 
 ### 📈 GitHub status
 
@@ -36,3 +36,12 @@ An algorithm that automatically obtains data from a remote server on a regular b
 #### [Awesome-Weather-Forecast](https://github.com/zhengkai15/Awesome-Weather-Forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Awesome-Weather-Forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Awesome-Weather-Forecast?style=social)
 
 An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
+
+<!--
+https://zhuanlan.zhihu.com/p/593714446
+https://www.webfx.com/tools/emoji-cheat-sheet/
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://github.com/ryo-ma/github-profile-trophy/blob/master/README.md
+https://simpleicons.org/
+-->
