@@ -4,12 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=15&pause=2000&color=9EAB78&center=true&vCenter=true&multiline=true&width=800&height=35&lines=%F0%9F%8C%BCBetter+late+than+never!%F0%9F%8C%BC)](https://git.io/typing-svg)
 
-- 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
-- 🤔 I’m currently learning on **Transformer** and **CV**.
-
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20Shrimponthekeyboard~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25)
+
+- 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
+- 🤔 I’m currently learning on **Transformer** and **CV**.
 
 ### 📈 GitHub status
 
