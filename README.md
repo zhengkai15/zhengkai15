@@ -28,7 +28,7 @@
 
 ### 🍬 Awesome Repo
 
-#### [Timing_automatic_forecast](https://github.com/Yutong-Zhou-cv/awesome-Text-to-Image)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Timing_automatic_forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Timing_automatic_forecast?style=social)
+#### [Timing_automatic_forecast](https://github.com/zhengkai15/Timing_automatic_forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Timing_automatic_forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Timing_automatic_forecast?style=social)
 
 A Survey (Evaluation Metrics, Dataset, Project and Paper) on Text-to-Image Synthesis & Manipulation and other related works.
 
