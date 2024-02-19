@@ -8,6 +8,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20Mantis%20Shrimp~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25)
 
+> [!IMPORTANT]
+> 
+> **我正在寻求一个PhD.的就读机会，如果您对我有兴趣可以发邮件给我: <a href = "mailto: kaizheng.work@gmial.com">kaizheng.work@gmial.com</a>**
+> > I am seeking an opportunity to pursue a Ph.D. If you are interested in my profile, please email me at: kaizheng.work@gmial.com
+
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
 - 🤔 I’m currently learning on **Transformer** and **Diffusion**.
 - 😀 I’m currently learning on **Large model of weather forecast** and **SR**.
