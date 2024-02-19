@@ -18,14 +18,9 @@
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=zhengkai15&hide=contribs,issues&theme=rose&show_icons=true&rank_icon=github" />
 </a>
 
-<!--
-| <img align="center" height="155px" src="https://github-readme-stats.vercel.app/api?username=zhengkai15&theme=darcula&show_icons=true" /> | <img align="center" height="155px" src="http://github-readme-streak-stats.herokuapp.com?user=zhengkai15&theme=darcula&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" /> |
-| ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=zhengkai15&theme=rose_pine&date_format=M%20j%5B%2C%20Y%5D&ring=B26E42" />
-</a>
--->
+<!-- <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=zhengkai15&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p> -->
 
 ### 🍬 Awesome Repo
 
