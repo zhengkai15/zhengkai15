@@ -6,7 +6,7 @@
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20Shrimponthekeyboard~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20Mantis%20Shrimp~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25)
 
 - 🌻 I’m currently working on **Vision-Language Cooperative Representation** and **Multi-Modalities Learning**.
 - 🤔 I’m currently learning on **Transformer** and **Diffusion**.
