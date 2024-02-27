@@ -28,12 +28,16 @@
 </p> -->
 
 ### 🍬 Awesome Repo
+#### [AwesomeAGI](https://github.com/zhengkai15/Awesome-AGI)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/AwesomeAGI?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/AwesomeAGI?style=social)
 
-#### [Timing_automatic_forecast](https://github.com/zhengkai15/Timing_automatic_forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Timing_automatic_forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Timing_automatic_forecast?style=social)
+A repository of AGI related websites and code.
+
+
+#### [Awesome-Weather-Forecast](https://github.com/zhengkai15/Awesome-Weather-Forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Awesome-Weather-Forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Awesome-Weather-Forecast?style=social)
 
 An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
 
-#### [Awesome-Weather-Forecast](https://github.com/zhengkai15/Awesome-Weather-Forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Awesome-Weather-Forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Awesome-Weather-Forecast?style=social)
+#### [Timing_automatic_forecast](https://github.com/zhengkai15/Timing_automatic_forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Timing_automatic_forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Timing_automatic_forecast?style=social)
 
 An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
 
