@@ -28,7 +28,7 @@
 </p> -->
 
 ### 🍬 Awesome Repo
-#### [AwesomeAGI](https://github.com/zhengkai15/Awesome-AGI)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/AwesomeAGI?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/AwesomeAGI?style=social)
+#### [AwesomeAGI](https://github.com/zhengkai15/AwesomeAGI)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/AwesomeAGI?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/AwesomeAGI?style=social)
 
 A repository of AGI related websites and code.
 
