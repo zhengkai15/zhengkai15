@@ -37,10 +37,6 @@ A repository of AGI related websites and code.
 
 An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
 
-#### [Timing_automatic_forecast](https://github.com/zhengkai15/Timing_automatic_forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Timing_automatic_forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Timing_automatic_forecast?style=social)
-
-An algorithm that automatically obtains data from a remote server on a regular basis, automatically loads models and makes forecasts.
-
 <!--
 https://zhuanlan.zhihu.com/p/593714446
 https://www.webfx.com/tools/emoji-cheat-sheet/
