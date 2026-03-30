@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=15&pause=2000&color=9EAB78&center=true&vCenter=true&multiline=true&width=800&height=35&lines=%F0%9F%8C%BCBetter+late+than+never!%F0%9F%8C%BC)](https://git.io/typing-svg)
 
 -->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20Mantis%20Shrimp~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25)
 <!--
 > [!IMPORTANT]
@@ -17,6 +16,9 @@
 - 🤔 I’m currently learning on **Transformer** and **Diffusion**.
 - 😀 I’m currently learning on **Large model of weather forecast** and **SR**.
 -->
+
+<!--
+
 ### 📈 GitHub status
 
 <a href="https://github.com/zhengkai15">
@@ -25,7 +27,17 @@
 
 <!-- <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=zhengkai15&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p> -->
+</p> 
+-->
+
+<!-- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhengkai15/zhengkai15/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhengkai15/zhengkai15/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhengkai15/zhengkai15/output/github-contribution-grid-snake.svg">
+</picture>
+-->
+
 
 ### 🍬 Awesome Repo
 #### [AwesomeAGI](https://github.com/zhengkai15/AwesomeAGI)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/AwesomeAGI?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/AwesomeAGI?style=social)
