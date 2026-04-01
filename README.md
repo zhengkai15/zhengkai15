@@ -3,9 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=25&pause=2000&color=9EAB78&center=true&vCenter=true&multiline=true&width=800&height=45&lines=Hi+ALL(%E0%B7%86%60%EA%92%B3%C2%B4%E0%B7%86))](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=15&pause=2000&color=9EAB78&center=true&vCenter=true&multiline=true&width=800&height=35&lines=%F0%9F%8C%BCBetter+late+than+never!%F0%9F%8C%BC)](https://git.io/typing-svg)
-
 -->
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=ℋ𝒾,%20ℐ'𝓂%20Mantis%20Shrimp~🌱&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=25)
+
+
+
 <!--
 > [!IMPORTANT]
 > 
@@ -18,9 +23,7 @@
 -->
 
 <!--
-
 ### 📈 GitHub status
-
 <a href="https://github.com/zhengkai15">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=zhengkai15&hide=contribs,issues&theme=rose&show_icons=true&rank_icon=github" />
 </a>
@@ -29,6 +32,8 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=zhengkai15&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p> 
 -->
+
+
 
 <!-- 
 <picture>
@@ -39,11 +44,24 @@
 -->
 
 
+
+
+<p align="left">
+<a href="https://github.com/gjy3035">
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=zhengkai15&show_icons=true&theme=vue&include_all_commits=true&count_private=true&width=400"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zhengkai15&layout=compact&langs_count=8&theme=vue&count_private=true&width=400"/>
+</a>
+</p>
+
+
+
+
+<!-- 
 ### 🍬 Awesome Repo
 #### [AwesomeAGI](https://github.com/zhengkai15/AwesomeAGI)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/AwesomeAGI?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/AwesomeAGI?style=social)
 
 A repository of AGI related websites and code.
-
+-->
 
 #### [Awesome-Weather-Forecast](https://github.com/zhengkai15/Awesome-Weather-Forecast)  ![GitHub Repo stars](https://img.shields.io/github/stars/zhengkai15/Awesome-Weather-Forecast?style=social) ![GitHub forks](https://img.shields.io/github/forks/zhengkai15/Awesome-Weather-Forecast?style=social)
 
